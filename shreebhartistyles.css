@@ -231,6 +231,9 @@ hr{
 @media(max-width: 600px){
     #intro{
         padding: 30px 20px;
+        background-image: url("assets/background-mobile.jpg");
+        background-repeat: no-repeat;
+        background-size: 100%;
     }
     .mine-image-div{
         padding: 0;
