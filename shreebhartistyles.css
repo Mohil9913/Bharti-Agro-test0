@@ -56,7 +56,8 @@ hr{
     background-color: #9EB13B;
     color: white;
     padding: 30px 0;
-    background-image: url("assets/background.jpg");
+    background-image: url("https://i.postimg.cc/jjVt9jY3/background.jpg
+");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -65,7 +66,7 @@ hr{
 #product{background-color: #e3fcbfbf;}
 
 #event{
-    background-image: url("assets/pexels-pixabay-158827.jpg");
+    background-image: url("https://i.postimg.cc/1zpsZZ9m/pexels-pixabay-158827.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -231,7 +232,7 @@ hr{
 @media(max-width: 600px){
     #intro{
         padding: 30px 20px;
-        background-image: url("assets/background-mobile.jpg");
+        background-image: url("https://i.postimg.cc/L8gmN1wZ/background-mobile.jpg");
         background-repeat: no-repeat;
         background-size: 100%;
     }
