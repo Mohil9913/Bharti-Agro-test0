@@ -56,8 +56,8 @@ hr{
     background-color: #9EB13B;
     color: white;
     padding: 30px 0;
-    background-image: url("https://i.postimg.cc/jjVt9jY3/background.jpg
-");
+    background-image: url("https://i.postimg.cc/jjVt9jY3/background.jpg");
+    /* background-image: url("assets/background.jpg"); */
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
