@@ -57,10 +57,10 @@ hr{
     color: white;
     padding: 30px 0;
     background-image: url("https://i.postimg.cc/jjVt9jY3/background.jpg");
-    /* background-image: url("assets/background.jpg"); */
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
+    background-position: center;
 }
 
 #product{background-color: #e3fcbfbf;}
@@ -230,12 +230,6 @@ hr{
 }
 
 @media(max-width: 600px){
-    #intro{
-        padding: 30px 20px;
-        background-image: url("https://i.postimg.cc/L8gmN1wZ/background-mobile.jpg");
-        background-repeat: no-repeat;
-        background-size: 100%;
-    }
     .mine-image-div{
         padding: 0;
     }
